@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+.row {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  -ms-flex: 25%; /* IE10 */
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .column {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+img {
+  margin-bottom: -4px;
+}
+
+.caption-container {
+  text-align: center;
+  background-color: black;
+  padding: 2px 16px;
+  color: white;
+}
+
+.demo {
+  opacity: 0.6;
+}
+
+.active,
+.demo:hover {
+  opacity: 1;
+}
+
+img.hover-shadow {
+  transition: 0.3s;
+}
+
+.hover-shadow:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/*====================*/
+.container {
+  position: relative;
+}
+
+.overlay {
+  position: absolute; 
+  bottom: 0; 
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1; 
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+</style>
+<body>
+
+<!-- Header -->
+<div class="header">
+  <h1>Abba's Shop</h1>
+  <p>Assorted items handmade in the Lustgarten Garage.</p>
+</div>
+
+<!-- Photo Grid -->
+<div class="row"> 
+  <div class="column">
+    <img src="../pics/wedding.jpg" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow">
+    <img src="../pics/rocks.jpg" style="width:100%" class="hover-shadow">
+    <div class="container">
+      <img src="C:\Users\Lior\Documents\WebDev\Prototype\V2\pics\falls2.jpg" style="width:100%" alt="Avatar" class="image">
+      <div class="overlay">My Name is John</div>
+    </div>
+    <img src="../pics/paris.jpg" style="width:100%">
+    <img src="../pics/nature.jpg" style="width:100%">
+    <img src="/w3images/mist.jpg" style="width:100%">
+    <img src="/w3images/paris.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/w3images/underwater.jpg" style="width:100%">
+    <img src="/w3images/ocean.jpg" style="width:100%">
+    <img src="/w3images/wedding.jpg" style="width:100%">
+    <img src="/w3images/mountainskies.jpg" style="width:100%">
+    <img src="/w3images/rocks.jpg" style="width:100%">
+    <img src="/w3images/underwater.jpg" style="width:100%">
+  </div>  
+  <div class="column">
+    <img src="/w3images/wedding.jpg" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow">
+    <img src="/w3images/rocks.jpg" style="width:100%" class="hover-shadow">
+    <div class="container">
+      <img src="/w3images/falls2.jpg" style="width:100%" alt="Avatar" class="image">
+      <div class="overlay">My Name is John</div>
+    </div>
+    <img src="/w3images/paris.jpg" style="width:100%">
+    <img src="/w3images/nature.jpg" style="width:100%">
+    <img src="/w3images/mist.jpg" style="width:100%">
+    <img src="/w3images/paris.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/w3images/underwater.jpg" style="width:100%">
+    <img src="/w3images/ocean.jpg" style="width:100%">
+    <img src="/w3images/wedding.jpg" style="width:100%">
+    <img src="/w3images/mountainskies.jpg" style="width:100%">
+    <img src="/w3images/rocks.jpg" style="width:100%">
+    <img src="/w3images/underwater.jpg" style="width:100%">
+  </div>  
+</div>
+
+</body>
+</html>
