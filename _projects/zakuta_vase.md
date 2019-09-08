@@ -1,6 +1,15 @@
 ---
 layout: default
-title: Giant Dime (Tiny Paddle)
+title: Zakuta Vase
 ---
 
-<img src="\pics\Micro paddle\IMG_00000156.jpg" alt="the top of a 1 inch by 1 inch copper PCB, with white paint covering its surface.  It has pads for resistors and leds" class="img-responsive" />
+<img src="{{ site.baseurl }}\pics\2019-April Ceramic Vase Replica (Annette)\IMG_1120.JPG" class="img-responsive" />
+<img src="{{ site.baseurl }}\pics\2019-April Ceramic Vase Replica (Annette)\IMG_1121.JPG" class="img-responsive" />
+<img src="{{ site.baseurl }}\pics\2019-April Ceramic Vase Replica (Annette)\IMG_1122.JPG" class="img-responsive" />
+<img src="{{ site.baseurl }}\pics\2019-April Ceramic Vase Replica (Annette)\IMG_1123.JPG" class="img-responsive" />
+<img src="{{ site.baseurl }}\pics\2019-April Ceramic Vase Replica (Annette)\IMG_1133.JPG" class="img-responsive" />
+<img src="{{ site.baseurl }}\pics\2019-April Ceramic Vase Replica (Annette)\IMG_1134.JPG" class="img-responsive" />
+<img src="{{ site.baseurl }}\pics\2019-April Ceramic Vase Replica (Annette)\IMG_1135.JPG" class="img-responsive" />
+<img src="{{ site.baseurl }}\pics\2019-April Ceramic Vase Replica (Annette)\IMG_1274.JPG" class="img-responsive" />
+<img src="{{ site.baseurl }}\pics\2019-April Ceramic Vase Replica (Annette)\IMG_1276.JPG" class="img-responsive" />
+<img src="{{ site.baseurl }}\pics\2019-April Ceramic Vase Replica (Annette)\IMG_1277.JPG" class="img-responsive" />

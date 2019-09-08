@@ -9,9 +9,9 @@ We've been designing a pcb to make a backlit wearable, for better finger trackin
 
 Getting a PCB made at E5 proved easier said than done.  Our first board had a lot of issues.  First, they did not have material for providing soldermasking.  Second, the silkscreen was complete fiasco, with paint everywhere on the board, including conductive pads.  Needless to say, we needed it re-printed properly.
 
-<img src="{{ site.baseurl }}{{ site.baseurl }}\pics\2019-July Japanese Crest\IMG_1405.JPG" alt="the top of a 1 inch by 1 inch copper PCB, with white paint covering its surface.  It has pads for resistors and leds" class="img-responsive" />
+<img src="{{ site.baseurl }}\pics\2019-July Japanese Crest\IMG_1405.JPG" alt="the top of a 1 inch by 1 inch copper PCB, with white paint covering its surface.  It has pads for resistors and leds" class="img-responsive" />
 <p>PCB - top</p>
-<img src="{{ site.baseurl }}{{ site.baseurl }}\pics\2019-July Japanese Crest\IMG_1412.JPG" alt="the bottom a 1 inch by 1 inch  copper PCB, with white paint covering its surface.  It has pads for a battery holder" class="img-responsive" />
+<img src="{{ site.baseurl }}\pics\2019-July Japanese Crest\IMG_1412.JPG" alt="the bottom a 1 inch by 1 inch  copper PCB, with white paint covering its surface.  It has pads for a battery holder" class="img-responsive" />
 <p>PCB - bottom</p>
 
 ##### Second board - poorly designed, with manufacturing defects
