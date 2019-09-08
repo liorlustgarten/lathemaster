@@ -3,4 +3,4 @@
 collections:
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: lathemaster/projects/:path/
