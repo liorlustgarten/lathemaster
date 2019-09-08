@@ -1,17 +1,28 @@
 ---
 layout: default
-title: About
+title: Pocket Watch
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<img src="\pics\2019-July JL Pocket Watch\IMG_1410.JPG" class="img-responsive" />
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<img src="\pics\2019-July JL Pocket Watch\IMG_1411.JPG" class="img-responsive" />
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<img src="\pics\2019-July JL Pocket Watch\IMG_1413.JPG" class="img-responsive" />
 
+<img src="\pics\2019-July JL Pocket Watch\IMG_1414.JPG" class="img-responsive" />
 
-[jekyll-organization]: https://github.com/jekyll
+<img src="\pics\2019-July JL Pocket Watch\IMG_1415.JPG" class="img-responsive" />
+
+<img src="\pics\2019-July JL Pocket Watch\IMG_1416.JPG" class="img-responsive" />
+
+<img src="\pics\2019-July JL Pocket Watch\IMG_1417.JPG" class="img-responsive" />
+
+<img src="\pics\2019-July JL Pocket Watch\IMG_1418.JPG" class="img-responsive" />
+
+<img src="\pics\2019-July JL Pocket Watch\IMG_1422.JPG" class="img-responsive" />
+
+<img src="\pics\2019-July JL Pocket Watch\IMG_1423.JPG" class="img-responsive" />
+
+<img src="\pics\2019-July JL Pocket Watch\IMG_1424.JPG" class="img-responsive" />
+
+<img src="\pics\2019-July JL Pocket Watch\IMG_1433.JPG" class="img-responsive" />
