@@ -1,6 +1,7 @@
 #github: [metadata]
 #theme: jekyll-theme-tactile
+baseurl: /lathemaster 
 collections:
   projects:
     output: true
-    permalink: lathemaster/projects/:path/
+    permalink: /projects/:path/
