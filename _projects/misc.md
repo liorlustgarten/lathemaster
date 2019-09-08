@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Giant Dime (Tiny Paddle)
+title: Miscellaneous
 ---
 
-<img src="{{ site.baseurl }}\pics\Micro paddle\IMG_00000156.jpg" class="img-responsive" />
+<img src="{{ site.baseurl }}\pics\Miscellaneous\IMG_1420.JPG" class="img-responsive" />
