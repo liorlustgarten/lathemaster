@@ -5,3 +5,15 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+
+defaults:
+- scope:
+    path: _projects
+    type: projects
+  values:
+    layout: project
+    show-avatar: true
+
+# Image to show in the navigation bar - image must be a square (width = height)
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/pics/2015 ca Macro paddle with A inlay/avatar.jpg"
