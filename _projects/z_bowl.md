@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Z Bowl
+materials: Maple, Walnut
 ---
 
 The ZGP bowl was a project that Abba’s son envisioned as a Secret Santa gift for a close friend Zack (an accomplished designer and woodworker himself).

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Pocket Watch
+materials: Paduk, Maple, Black Resin, Steel Letters
 ---
 
 <img src="{{ site.baseurl }}\pics\2019-July JL Pocket Watch\IMG_1410.JPG" class="img-responsive" />

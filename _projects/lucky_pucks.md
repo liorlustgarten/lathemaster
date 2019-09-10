@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 500th Game Commemorative Pucks
+materials: Clean Maple, Roasted Maple, Elm, Purpleheart, Walnut Oil Finish
 ---
 
 The Lucky Pucks @500 custom wooden puck replicas were a gift to Abba’s teammates to commemorate 500 games over more than 10 years.  The Lucky Pucks are a special group of dedicated hockey bums that play a weekly hockey game.  The group could be called a beer league, but that would not do justice to the level of organization and commitment that the group shows week after week.  

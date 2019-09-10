@@ -1,6 +1,7 @@
 ---
 layout: default
 title: BMW Gearshift
+materials: Paduk, Maple, Ebony
 ---
 
 This project was a surprise gift for Abba’s son Mattan, made stealthily and swiftly over a two-week period when he was away travelling.  It was made to replace the 17-year-old gearshift knob on a 2002 BMW 530i.  A cheap replacement knob was purchased online and disassembled to harvest the inner plastic hub that connects to the transmission.  A custom “M” emblazoned blank was created and then coopered to the classic shape.

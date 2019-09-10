@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Zakuta Vase
+materials: Paduk, Maple
 ---
 
 <img src="{{ site.baseurl }}\pics\2019-April Ceramic Vase Replica (Annette)\IMG_1120.JPG" class="img-responsive" />
