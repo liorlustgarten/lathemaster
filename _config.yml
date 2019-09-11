@@ -1,5 +1,13 @@
-#github: [metadata]
-#theme: jekyll-theme-tactile
+# Name of website
+title: Lustgarten Garage
+
+# Short description of your site
+description: A showcase of handmade projects from the Lustgarten Garage.
+
+# List of links in the navigation bar
+navbar-links:
+  About: "aboutme"
+
 baseurl: /lathemaster 
 collections:
   projects:
