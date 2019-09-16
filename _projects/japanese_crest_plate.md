@@ -29,5 +29,6 @@ The design was printed onto a piece of paper and glued to a Paduk blank.
 
 <img src="{{ site.baseurl }}\pics\2019-July Japanese Crest\IMG_1431.JPG" class="img-responsive" />
 
+TADAHH!
 
 <img src="{{ site.baseurl }}\pics\2019-July Japanese Crest\IMG_1434.JPG" class="img-responsive" />
