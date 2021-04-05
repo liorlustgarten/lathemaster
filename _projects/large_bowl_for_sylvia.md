@@ -13,7 +13,6 @@ It is about 18 inches wide!
 <img src="{{ site.baseurl }}\pics\large bowl for sylvia\IMG_00000586.jpg" class="img-responsive" />
 
 <img src="{{ site.baseurl }}\pics\large bowl for sylvia\IMG_00000587.jpg" class="img-responsive" />
-
 <img src="{{ site.baseurl }}\pics\large bowl for sylvia\IMG_00000588.jpg" class="img-responsive" />
 
 <img src="{{ site.baseurl }}\pics\large bowl for sylvia\IMG_00000589.jpg" class="img-responsive" />
