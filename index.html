@@ -18,6 +18,12 @@ common-css:
   <div class="row"> 
     <div class="column">
       <div class="container">
+        <a href="{{ site.baseurl }}{% link _projects/Heart_to_heart_saladbowl.md %}">
+          <img src="pics\Heart to Heart Bowl\darkbowl.JPG" style="width:100%" alt="Avatar" class="image">
+        </a>
+        <div class="overlay">Heart to Heart Bowl</div>
+      </div>
+      <div class="container">
         <a href="{{ site.baseurl }}{% link _projects/paddle_inlay.md %}">
           <img src="pics\2015 ca Macro paddle with A inlay\IMG_00000236.jpg" style="width:100%" alt="Avatar" class="image">
         </a>
@@ -105,6 +111,12 @@ common-css:
         </a>
         <div class="overlay">Lucky Pucks 500th Game</div>
       </div>
+      <div class="container">
+        <a href="{{ site.baseurl }}{% link _projects/large_bowl_for_sylvia.md %}">
+          <img src="pics\large bowl for sylvia\IMG_00000608.jpg" style="width:100%" alt="Avatar" class="image">
+        </a>
+        <div class="overlay">Large Maple Bowl</div>
+      </div>
     </div>
     <div class="column">
       <div class="container">
@@ -146,6 +158,13 @@ common-css:
     </div>  
   </div>
 
-
+  <h1>All Bowls</h1> {% for page in site.projects %}
+  <p>
+      {% if page.type == "bowl" %}
+      <strong>****<a href="{{ site.baseurl }}{{page.url}}">{{ page.title }}</a></strong>
+      <span> {% if page.materials %} {{ page.materials }}{% endif %}</span>
+      {% endif %}
+  </p>
+  {% endfor %}
   </body>
 </html>
