@@ -2,10 +2,12 @@
 layout: default
 title: Large bowl for Sylvia
 materials: Maple
+type: bowl
 ---
 
 This is a bowl that I made for my mother.
 It is the biggest bowl that I ever made!
+It is about 18 inches wide!
 
 
 <img src="{{ site.baseurl }}\pics\large bowl for sylvia\IMG_00000586.jpg" class="img-responsive" />
